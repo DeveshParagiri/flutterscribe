@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472164940476",
+    "project_id": "transcribe-app-c9031",
+    "storage_bucket": "transcribe-app-c9031.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472164940476:android:b99a7efaed5a1ed68d2eb9",
+        "android_client_info": {
+          "package_name": "com.example.transcribe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzDYPEZI1UmNZfdr0pdSXSuXGBkeQron4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
